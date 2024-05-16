@@ -19,3 +19,4 @@ This project is an Amazon clone built using HTML and CSS. It replicates some of 
 ## Getting Started
 
 To view the Amazon Clone website, simply open the `index.html` file in your web browser. You can also clone the repository to your local machine to explore the code further or make modifications.
+## Live link : https://sparkling-lolly-5c5da8.netlify.app/
